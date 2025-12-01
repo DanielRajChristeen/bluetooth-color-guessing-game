@@ -2,6 +2,8 @@
 A fun, interactive, sensor-based mini-project using **ESP32 + TCS3200 Color Sensor + Bluetooth**.  
 No actuators. Just smart sensing, Bluetooth communication, and real-time game logic.
 
+<image src="images/circuit_diag.jpg">
+
 ---
 
 ## 🚀 Overview  
@@ -146,7 +148,7 @@ The full working code is available in:
 
 ```
 
-/src/esp32_color_game.ino
+src/bluetooth-color-guessing-game.ino
 
 ```
 
@@ -185,7 +187,7 @@ bool gameStarted = false;
 
 ## 🎥 Demo
 
-
+<image src="images/Prototype.jpeg">
 
 ---
 
